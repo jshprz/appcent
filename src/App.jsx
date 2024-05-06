@@ -1,11 +1,9 @@
-import Header from "./components/Header"
-import Hero from "./components/Hero"
+import './App.css'
 
 export default function App() {
   return (
-    <div className="thebackground">
-      <Header />
-      <Hero />
-    </div>
+    <h1 className="text-3xl font-bold underline">
+      Hello world!
+    </h1>
   )
 }
