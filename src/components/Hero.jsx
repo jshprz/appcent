@@ -38,6 +38,9 @@ export default function Hero() {
             <img
               src="https://res.cloudinary.com/dw9hw2a2n/image/upload/v1714513072/AppCene/pexels-jourdan-wee-2023410-3644098-removebg-preview_lnves1.png"
               alt="mockup"
+              style={{
+                borderRadius: "15rem",
+              }}
             />
           </div>
         </div>
