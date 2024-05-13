@@ -1,8 +1,13 @@
 export default function Services() {
     return (
         <>
-            <div>
-                <p>Our Services</p>
+            <div className="flex">
+                <div>
+                    <p>Our Services</p>
+                </div>
+                <div>
+                    <p>Test</p>
+                </div>
             </div>
         </>
     )
